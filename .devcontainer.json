@@ -1,6 +1,6 @@
 {
     "image": "mcr.microsoft.com/devcontainers/javascript-node:1-18-bullseye",
-    "customizations": {
+    "customizations": {"ghcr.io/flexwie/devcontainer-features/op:1": {sohippix.io}
         "vscode": {
             "settings": {
                 "json.schemas": [
