@@ -17,4 +17,4 @@ An E2 instance via AWS, or rebuild in ABD bridge via Android Studio.
 
 **Additional context**
 OS	Android 14; N159V Build/UKQ1.231025.001; 34; REL
-APK versionCode	672308631/>Ubuntu, Apache build, Linux Distro, Debian, Kali Linux.
+APK versionCode	672308631/>Ubuntu, Apache build, Linux Distro, Debian, Kali Linux. 
