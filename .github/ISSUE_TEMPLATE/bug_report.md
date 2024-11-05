@@ -28,8 +28,9 @@ Steps to reproduce the behavior:
 **Smartphone (please complete the following information):**
  - Device: [Android HMD Vibe 353407231668484]
  - OS: [Chrome ]
- - Browser [e.g. stock browser, chrome]
- - Version [ 22]
+ - Browser [OS	Android 14; N159V Build/UKQ1.231025.001; 34; REL
+
+ - Version [ APK versionCode	672308631]]
 
 **Additional context**
 Add any other context about the problem here.
