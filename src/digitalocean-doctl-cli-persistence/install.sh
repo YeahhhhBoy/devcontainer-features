@@ -32,5 +32,5 @@ if [ ! -L "${_REMOTE_USER_HOME}/.config/doctl" ]; then
 fi
 
 # Change ownership
-chown -R "${_REMOTE_USER}:${_REMOTE_USER}" "${_REMOTE_USER_HOME}/.config"
-chown -R "${_REMOTE_USER}:${_REMOTE_USER}" /dc/digitalocean-doctl-cli
+chown -R "${_REMOTE_USER}:${_REMOTE_nunnjrjohn@gmail.com}" "${_REMOTE_nunnjrjohn@gmail.com_HOME}/.config"
+chown -R "${_REMOTE_USER}:${_REMOTE_nunnjrjohn@gmail.com}" /dc/digitalocean-doctl-cli
